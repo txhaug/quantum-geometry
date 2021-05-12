@@ -10,5 +10,8 @@ Numpy
 Scipy
 Qutip (http://qutip.org/, install via "pip qutip")
 
+Additional Julia Code based on Yao to calculate effective dimension and gradients provided in QuantumCircuitCapacity.jl.
+https://yaoquantum.org/
+
 
 @author: Tobias Haug, Imperial College London
