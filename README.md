@@ -6,9 +6,13 @@ Companion code for http://arxiv.org/abs/2102.01659, https://doi.org/10.1103/PRXQ
 
 
 Requirements:
+
 Numpy
+
 Scipy
-Qutip (http://qutip.org/, install via "pip qutip")
+
+Qutip (http://qutip.org/)
+NOTE: Requires older version of qutip, namely <=4.7.5, install via "pip install qutip==4.7.5"
 
 Additional Julia Code based on Yao to calculate effective dimension and gradients provided in QuantumCircuitCapacity.jl.
 https://yaoquantum.org/
